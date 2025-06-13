@@ -1,0 +1,28 @@
+{
+    "products": [
+    {
+      "productId": "P001",
+      "name": "Wireless Mouse",
+      "price": 499.99,
+      "inStock": true,
+      "category": "Electronics",
+       "imageUrl": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "productId": "P002",
+        "name": "Notebook",
+        "price": 89.50,
+        "inStock": false,
+        "category": "Stationery",
+        "imageUrl": "https://picsum.photos/id/1/200/200"
+      },
+      {
+        "productId": "P003",
+        "name": "Bluetooth Speaker",
+        "price": 1499.00,
+        "inStock": true,
+        "category": "Electronics",
+        "imageUrl": "https://picsum.photos/id/29/200/200"
+      }
+  ]
+}
