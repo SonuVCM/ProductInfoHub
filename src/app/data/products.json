@@ -1,28 +1,84 @@
 {
-    "products": [
+  "products": [
     {
       "productId": "P001",
       "name": "Wireless Mouse",
       "price": 499.99,
       "inStock": true,
       "category": "Electronics",
-       "imageUrl": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=400&q=80"
+      "imageUrl": "assets/error-icon-7.png"
     },
     {
-        "productId": "P002",
-        "name": "Notebook",
-        "price": 89.50,
-        "inStock": false,
-        "category": "Stationery",
-        "imageUrl": "https://picsum.photos/id/1/200/200"
-      },
-      {
-        "productId": "P003",
-        "name": "Bluetooth Speaker",
-        "price": 1499.00,
-        "inStock": true,
-        "category": "Electronics",
-        "imageUrl": "https://picsum.photos/id/29/200/200"
-      }
+      "productId": "P002",
+      "name": "Notebook",
+      "price": 89.50,
+      "inStock": false,
+      "category": "Stationery",
+      "imageUrl": "assets/error-icon-7.png"
+    },
+    {
+      "productId": "P003",
+      "name": "Bluetooth Speaker",
+      "price": 1499.00,
+      "inStock": true,
+      "category": "Electronics",
+      "imageUrl": "assets/error-icon-7.png"
+    },
+    {
+      "productId": "P004",
+      "name": "Office Chair",
+      "price": 2999.99,
+      "inStock": true,
+      "category": "Furniture",
+      "imageUrl": "assets/error-icon-7.png"
+    },
+    {
+      "productId": "P005",
+      "name": "Water Bottle",
+      "price": 149.00,
+      "inStock": true,
+      "category": "Kitchen",
+      "imageUrl": "assets/error-icon-7.png"
+    },
+    {
+      "productId": "P006",
+      "name": "Desk Lamp",
+      "price": 899.00,
+      "inStock": false,
+      "category": "Home Decor",
+      "imageUrl": "assets/error-icon-7.png"
+    },
+    {
+      "productId": "P007",
+      "name": "Running Shoes",
+      "price": 2199.00,
+      "inStock": true,
+      "category": "Footwear",
+      "imageUrl": "assets/error-icon-7.png"
+    },
+    {
+      "productId": "P008",
+      "name": "Backpack",
+      "price": 1099.00,
+      "inStock": true,
+      "category": "Accessories",
+      "imageUrl": "assets/error-icon-7.png"
+    },
+    {
+      "productId": "P009",
+      "name": "Smart Watch",
+      "price": 2999.00,
+      "inStock": false,
+      "category": "Electronics",
+      "imageUrl": "assets/error-icon-7.png"
+    },
+    {
+      "productId": "P010",
+      "name": "Pen Set",
+      "price": 199.00,
+      "inStock": true,
+      "category": "Stationery",
+      "imageUrl": "assets/error-icon-7.png"
+    }
   ]
 }
