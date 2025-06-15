@@ -7,6 +7,10 @@ import  jsonData  from './data/products.json';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
   title = 'ProductInfoHub';
+  searchText: string = '';
   products: any[] = jsonData.products;
+
+
 }
