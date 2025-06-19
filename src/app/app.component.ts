@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import  jsonData  from './data/products.json'; 
+// import  jsonData  from './data/products.json'; 
 
 @Component({
   selector: 'app-root',
@@ -9,8 +9,8 @@ import  jsonData  from './data/products.json';
 export class AppComponent {
 
   title = 'ProductInfoHub';
-  searchText: string = '';
-  products: any[] = jsonData.products;
+  // searchText: string = '';
+  // products: any[] = jsonData.products;
 
 
 }
